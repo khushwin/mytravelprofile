@@ -1,3 +1,3 @@
 # mytravelprofile
 
-I created this website for fun.
+This is my personal travel profile
